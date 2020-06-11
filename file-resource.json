@@ -1,0 +1,12 @@
+{
+  "01crpOGey5XshIy8MWrQxKHDszz1": {
+    "displayName": "Name user 1",
+    "cellPhone": "3123456789",
+    "email": "example@dominio.com"
+  },
+  "01lpsEStWeg0RL1v2RVIN5kGoAF3": {
+    "displayName": "Name user 2",
+    "email": "example@dominio.com",
+    "cellPhone": "3123456789"
+  }
+}

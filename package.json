@@ -1,0 +1,15 @@
+{
+  "name": "create-file-csv-from-json",
+  "version": "1.0.0",
+  "description": "Convert from file JSON  to CSV file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Mendoza",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "objects-to-csv": "^1.3.6"
+  }
+}
